@@ -11,10 +11,10 @@ The project is built with Vue 3 and Vite, and includes features like theme switc
 ## Screenshots
 
 ### Desktop (1920px)
-![Desktop Screenshot](/screenshot1.png)
+![Desktop Screenshot](/image/screenshot1.png)
 
 ### Mobile (375px)
-![Mobile Screenshot](./screenshot2.png)
+![Mobile Screenshot](./image/screenshot2.png)
 
 
 ## Features
